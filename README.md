@@ -1,7 +1,3 @@
-# Stockmarket_Price_Prediction_using_Machine_Learning_in_Python
-Here's your `README.md` file content in proper Markdown format:
-
-````markdown
 # 📈 Stockmarket Price Prediction using Machine Learning in Python
 
 **Author:** Saurabh Tanwer  
